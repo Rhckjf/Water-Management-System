@@ -33,7 +33,7 @@ A web-based water management system designed to manage gallon water sales transa
 ![Dashboard Preview](https://github.com/username/repo-name/assets/your-uploaded-image.png)
 
 ### Customer Management
-![Customer Page](https://github.com/username/repo-name/assets/customer-page.png)
+![Customer Page](https://github.com/Rhckjf/Water-Management-System/blob/ded253c584eea6708ba165da5d079aef749a8812/customer.jpg)
 
 
 ---
