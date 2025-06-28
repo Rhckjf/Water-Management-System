@@ -28,12 +28,18 @@ A web-based water management system designed to manage gallon water sales transa
 4. Access `index.php` through your browser to use the system.
 
  ## 📸 Preview
+### Login
+![Login Preview](https://github.com/Rhckjf/Water-Management-System/blob/2833da3bf3c6ee30fd983d20703a9d201b247022/login.jpg) 
 
 ### Dashboard
-![Dashboard Preview](https://github.com/username/repo-name/assets/your-uploaded-image.png)
+![Dashboard Preview](https://github.com/Rhckjf/Water-Management-System/blob/2833da3bf3c6ee30fd983d20703a9d201b247022/dashboard.jpg)
 
 ### Customer Management
 ![Customer Page](https://github.com/Rhckjf/Water-Management-System/blob/ded253c584eea6708ba165da5d079aef749a8812/customer.jpg)
+
+### Product
+![Product Page](https://github.com/Rhckjf/Water-Management-System/blob/2833da3bf3c6ee30fd983d20703a9d201b247022/order.jpg)
+
 
 
 ---
